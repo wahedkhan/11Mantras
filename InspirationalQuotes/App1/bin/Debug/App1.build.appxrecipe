@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WAABDU</Machine>
+    <WindowsUser>waabdu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\packages\CharmFlyout.1.0.11\lib\winrt45\CharmFlyoutLibrary.dll">
+      <PackagePath>CharmFlyoutLibrary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\Logo150.png">
+      <PackagePath>Assets\Logo150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\Logo30.png">
+      <PackagePath>Assets\Logo30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\Logo310.png">
+      <PackagePath>Assets\Logo310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\Logo50.png">
+      <PackagePath>Assets\Logo50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\MyCharmFlyouts.xaml">
+      <PackagePath>MyCharmFlyouts.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\packages\CharmFlyout.1.0.11\lib\winrt45\CharmFlyoutLibrary\Themes\Generic.xaml">
+      <PackagePath>CharmFlyoutLibrary\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

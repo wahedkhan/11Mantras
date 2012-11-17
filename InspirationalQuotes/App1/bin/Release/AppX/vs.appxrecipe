@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEKPILLBOX</Machine>
+    <WindowsUser>tekpill</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>041B7C32AC215A71535D2FABC9D46084C310E98E3A89D9998C149E011956791E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3291fd10-4fac-4b97-bd27-25f77eb38ca9_1.0.0.0_neutral__sxnn2m22k9xpp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3291fd10-4fac-4b97-bd27-25f77eb38ca9_sxnn2m22k9xpp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3291fd10-4fac-4b97-bd27-25f77eb38ca9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Houssem Dellai</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T07:24:30.174</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2012-11-17T07:24:30.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2012-11-17T07:24:29.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+      <Modified>2012-11-17T07:13:44.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T05:17:26.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T05:17:26.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T05:17:26.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T05:17:26.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-17T05:17:26.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-11-17T07:24:23.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-17T07:15:33.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-17T07:24:30.091</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

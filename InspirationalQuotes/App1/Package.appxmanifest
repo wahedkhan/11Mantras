@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="3291fd10-4fac-4b97-bd27-25f77eb38ca9" Publisher="CN=Houssem Dellai" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>11Mantras</DisplayName>
+    <PublisherDisplayName>Tekpill LLC</PublisherDisplayName>
+    <Logo>Assets\Logo50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="App1.App">
+      <VisualElements DisplayName="11 Mantras" Logo="Assets\Logo150.png" SmallLogo="Assets\Logo30.png" Description="Displays few finest inspirational quotes and refreshes everyday" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\Logo310.png" ShortName="11Mantras" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

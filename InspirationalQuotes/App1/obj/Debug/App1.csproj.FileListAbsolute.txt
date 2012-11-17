@@ -1,0 +1,112 @@
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\bin\Debug\App1.exe
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\bin\Debug\App1.pdb
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\bin\Debug\resources.pri
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\bin\Debug\AppxManifest.xml
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\bin\Debug\App1.build.appxrecipe
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\App.g.i.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\App.g.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\Common\StandardStyles.g.i.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\Common\StandardStyles.g.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\MainPage.g.i.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\MainPage.g.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\XamlTypeInfo.g.cs
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\App.xaml
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\Common\StandardStyles.xaml
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\MainPage.xaml
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\App1.exe
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\App1.pdb
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\priconfig.xml
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\layout.resfiles
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\resources.resfiles
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\pri.resfiles
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\LanguageQualifiers.txt
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\ProjectArchitectures.txt
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\priconfig.xml.intermediate
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\layout.resfiles.intermediate
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\resources.resfiles.intermediate
+c:\Users\houssem dellai\documents\visual studio 2012\Projects\RSS-Feed\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\bin\Debug\App1.exe
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\bin\Debug\App1.pdb
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\bin\Debug\resources.pri
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\bin\Debug\AppxManifest.xml
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\App.g.i.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\App.g.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\MainPage.g.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\App.xaml
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\Common\StandardStyles.xaml
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\MainPage.xaml
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\App1.exe
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\App1.pdb
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\priconfig.xml
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\layout.resfiles
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\resources.resfiles
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\pri.resfiles
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\LanguageQualifiers.txt
+C:\Users\tekpill\Desktop\RSS Reader - Copy\C#\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Debug\App1.exe
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Debug\App1.pdb
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Debug\resources.pri
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Debug\AppxManifest.xml
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\App.g.i.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\App.g.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\MainPage.g.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\App.xaml
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.xaml
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\MainPage.xaml
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\App1.exe
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\App1.pdb
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\priconfig.xml
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\layout.resfiles
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\resources.resfiles
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\pri.resfiles
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\LanguageQualifiers.txt
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\tekpill\Desktop\InspirationalQuotes\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App1.exe
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App1.pdb
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\resources.pri
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\AppxManifest.xml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App.g.i.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App.g.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MainPage.g.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App.xaml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\Common\StandardStyles.xaml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MainPage.xaml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App1.exe
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App1.pdb
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\priconfig.xml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\layout.resfiles
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\resources.resfiles
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\pri.resfiles
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\LanguageQualifiers.txt
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\CharmFlyoutLibrary.dll
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\bin\Debug\CharmFlyoutLibrary.pri
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\CharmFlyoutLibrary.pri.xml
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MyCharmFlyouts.g.i.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MyCharmFlyouts.g.cs
+C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\obj\Debug\MyCharmFlyouts.xaml
