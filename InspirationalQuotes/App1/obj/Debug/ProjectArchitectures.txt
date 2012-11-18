@@ -1,1 +1,1 @@
-C:\Users\waabdu\Desktop\ImagesNewApp\InspirationalQuotes\App1\App1.csproj;neutral
+C:\Users\waabdu\Documents\GitHub\11Mantras\InspirationalQuotes\App1\App1.csproj;neutral
